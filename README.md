@@ -1,4 +1,4 @@
-# # 📊 Ryman Hospitality Financial & Stock Dashboards
+# 📊 Ryman Hospitality Financial & Stock Dashboards
 
 **Tableau | Financial Analysis | Stock Visualization | Hospitality Industry**
 
